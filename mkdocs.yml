@@ -1,9 +1,9 @@
 site_name: 课程心得及总结
 site_description: A short description of my project.
 site_author: Your Name
-site_url: https://github.com/123axderg/123axderg.github.io
+site_url: https://123axderg.github.io/
 site_dir: site
-repo_url: https://github.com/example/repository/
+repo_url: https://github.com/123axderg/123axderg.github.io
 plugins:
   - glightbox
 nav:
